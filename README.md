@@ -1,3 +1,8 @@
+阿江您好，我是Brightdata亮数据(bright.cn)的合作伙伴经理Cynthia 我看到你的Github爬虫分享很受欢迎，我想跟你谈合作。
+因为邮件通讯比较慢，所以用这个方式联系你，希望你能看见后加我的微信cynthiaxinxiya 
+期待你的回音。
+Cynthia
+
 > **免责声明：**
 > 
 > 大家请以学习为目的使用本仓库，爬虫违法违规的案件：https://github.com/HiddenStrawberry/Crawler_Illegal_Cases_In_China  <br>
